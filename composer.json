@@ -1,0 +1,6 @@
+{
+    "require": {
+        "judev/php-htmltruncator": "^1.1",
+        "abeautifulsite/simpleimage": "^2.6"
+    }
+}
